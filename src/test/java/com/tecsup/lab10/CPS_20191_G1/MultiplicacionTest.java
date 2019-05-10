@@ -6,7 +6,7 @@ import org.junit.Test;
 public class MultiplicacionTest {
 	
 	@Test
-	public void testApp()
+	public void testMultiplicacion()
     {
         Assert.assertTrue( true );
     }
